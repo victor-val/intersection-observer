@@ -4,7 +4,7 @@ Intersection observer proporciona una forma de observar de forma asíncrona los 
 
 ## Casos de uso
 
-- Tik Tok para bucle infinito de videos
+- Bucle infinito de videos como Tik Tok
 - Lazy loading de imágenes
 - Reveal effect -> Cargar algo en un momento dado
 - Rastrear si un anuncio se está visualizando
